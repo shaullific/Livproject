@@ -1,0 +1,4 @@
+# Livproject
+This is a simple To Do List program that enables a user to create a list of tasks which they wish to complete at their time of convenience.
+
+This is a To Do List program written in C language. It allows users to create a list with a title and add tasks into the list. The program offers various operations such as clearing the list, displaying the items in the list, adding an extra item to the list, adding an extra item at a particular position in the list, removing an item from the list, and exiting the program.
